@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d8bd85f-7f18-4007-9c3a-180d9630d776" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +27,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "produto",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gustavoferreira-ieg/OneDrive - Instituto Germinare/Germinare/Tech/POO/git/POO_prat1grp_tF",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;produto&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gustavoferreira-ieg/OneDrive - Instituto Germinare/Germinare/Tech/POO/git/POO_prat1grp_tF&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,6 +55,7 @@
       <updated>1710936520943</updated>
       <workItem from="1710936524350" duration="203000" />
       <workItem from="1710938103050" duration="68000" />
+      <workItem from="1710938917993" duration="31000" />
     </task>
     <servers />
   </component>
