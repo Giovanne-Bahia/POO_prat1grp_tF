@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d8bd85f-7f18-4007-9c3a-180d9630d776" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "produto",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/gustavoferreira-ieg/OneDrive - Instituto Germinare/Germinare/Tech/POO/git/POO_prat1grp_tF",
     "nodejs_package_manager_path": "npm",
@@ -55,6 +55,7 @@
       <updated>1710936520943</updated>
       <workItem from="1710936524350" duration="203000" />
       <workItem from="1710938103050" duration="68000" />
+      <workItem from="1710938645519" duration="30000" />
     </task>
     <servers />
   </component>
